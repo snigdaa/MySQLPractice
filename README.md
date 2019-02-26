@@ -1,2 +1,2 @@
 # sqlpractice
-Data science bootcamp practice with Sakila database
+Practicing SQL queries using the MySQL workbench installed database, sakila
